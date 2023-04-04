@@ -4,7 +4,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Overview
 
-Live Site URL: [Stats preview card](link here)
+Live Site URL: [Stats preview card component](https://reddfoxie.github.io/FEM-Challenge_Stats-preview-card-component/)
 
 ### Useful resources
 
